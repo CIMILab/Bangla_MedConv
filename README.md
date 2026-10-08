@@ -1,6 +1,5 @@
 # Bangla MedConv (BMC)
 
-[![Project Page](https://img.shields.io/badge/Project%20Page-pronad1.github.io-brightgreen.svg)](https://pronad1.github.io/Project_website_Templete/)
 [![Benchmark](https://img.shields.io/badge/Benchmark-1%2C920%20Consultations-blue.svg)](#benchmark-overview)
 [![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 [![Lab](https://img.shields.io/badge/Lab-CIMILab-indigo.svg)](https://github.com/CIMILab)
