@@ -8,7 +8,7 @@
 > **Correct Answers, Unsafe Advice? Evaluating Open-Weight Vision-Language Models in Bangla Image-Grounded Medical Consultations**  
 > *Computation Informatics and Machine Intelligence Lab (CIMILab), University of Missouri, Columbia, USA*
 
-- 🌐 **Project Webpage:** [https://pronad1.github.io/Project_website_Templete/](https://pronad1.github.io/Project_website_Templete/)
+- 🌐 **Project Webpage:** [Demo](https://cimilab.github.io/Bangla_MedConv/)
 
 ---
 
